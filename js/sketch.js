@@ -17,7 +17,7 @@ function setup () {
 
 function create () {
 
-  // edit ass needed!
+  // edit as needed!
 
   // creating bodies
   var a = Bodies.rectangle(400, 200, 80, 80);
